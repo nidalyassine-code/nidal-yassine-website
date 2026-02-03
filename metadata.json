@@ -1,0 +1,8 @@
+{
+  "name": "Nidal Yassin's page",
+  "description": "A comprehensive professional portfolio and advanced admin dashboard for a digital designer and developer, featuring RTL support, high-end aesthetics, and smart content management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
